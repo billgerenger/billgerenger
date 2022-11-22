@@ -3,6 +3,7 @@ My latest blog posts:
 - https://jayisgames.com/review/gaming-on-a-virtual-machine-your-guide-to-improving-performance-.php
 - https://techbullion.com/mistakes-to-avoid-when-backing-up-your-vmware-virtual-machine/
 - https://itechhacks.com/top-tips-for-office-365-email-backup/
+- https://cacm.acm.org/blogs/blog-cacm/266511-data-backup-and-vm-modernization-how-to-guide/fulltext
 
 
 
