@@ -5,6 +5,7 @@ My latest blog posts:
 - https://techbullion.com/mistakes-to-avoid-when-backing-up-your-vmware-virtual-machine/
 - https://itechhacks.com/top-tips-for-office-365-email-backup/
 - https://cacm.acm.org/blogs/blog-cacm/266511-data-backup-and-vm-modernization-how-to-guide/fulltext
+- https://devops.com/vmware-backup-guide-for-hyper-v-admins/
 
 
 
