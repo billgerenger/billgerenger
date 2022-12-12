@@ -6,7 +6,7 @@ My latest blog posts:
 - https://itechhacks.com/top-tips-for-office-365-email-backup/
 - https://cacm.acm.org/blogs/blog-cacm/266511-data-backup-and-vm-modernization-how-to-guide/fulltext
 - https://devops.com/vmware-backup-guide-for-hyper-v-admins/
-
+- https://tdan.com/the-role-of-data-governance-in-data-management/29878
 
 
 <!--
