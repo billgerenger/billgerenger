@@ -8,7 +8,7 @@ My latest blog posts:
 - https://cacm.acm.org/blogs/blog-cacm/266511-data-backup-and-vm-modernization-how-to-guide/fulltext
 - https://devops.com/vmware-backup-guide-for-hyper-v-admins/
 - https://tdan.com/the-role-of-data-governance-in-data-management/29878
-
+- https://thinkmobiles.com/posts/2485/
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
