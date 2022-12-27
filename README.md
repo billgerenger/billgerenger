@@ -1,5 +1,6 @@
 ### I am a multi-certified system administrator and a cybersecurity consultant with over seven years of experience.
 My latest blog posts:
+- https://telegra.ph/Best-Practices-for-VMware-vSphere-Backup-11-28
 - https://backups.hashnode.dev/database-backup-security-a-beginners-guide
 - https://www.iotforall.com/kubernetes-vs-docker
 - https://winbuzzer.com/2021/12/01/the-top-5-reasons-to-back-up-exchange-online-xcxwgp/
