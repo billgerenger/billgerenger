@@ -1,6 +1,7 @@
 ### I am a multi-certified system administrator and a cybersecurity consultant with over seven years of experience.
 My latest blog posts:
-https://www.hostreview.com/blog/230106-legacy-vm-backup-vs-native-vm-backup
+
+- https://www.hostreview.com/blog/230106-legacy-vm-backup-vs-native-vm-backup
 - https://telegra.ph/Best-Practices-for-VMware-vSphere-Backup-11-28
 - https://backups.hashnode.dev/database-backup-security-a-beginners-guide
 - https://www.iotforall.com/kubernetes-vs-docker
