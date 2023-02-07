@@ -14,6 +14,7 @@ My latest blog posts:
 - https://tdan.com/the-role-of-data-governance-in-data-management/29878
 - https://thinkmobiles.com/posts/2485/
 - https://www.hostreview.com/blog/230202-defending-against-data-breaches-an-overview-of-cyber-insurance-for-msps
+- https://thinkmobiles.com/posts/2541/
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
