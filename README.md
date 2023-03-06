@@ -15,6 +15,7 @@ My latest blog posts:
 - https://thinkmobiles.com/posts/2485/
 - https://www.hostreview.com/blog/230202-defending-against-data-breaches-an-overview-of-cyber-insurance-for-msps
 - https://thinkmobiles.com/posts/2541/
+- https://securityboulevard.com/2023/03/how-to-secure-a-vm-in-a-cloud-computing-environment/
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
