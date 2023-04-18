@@ -18,6 +18,7 @@ My latest blog posts:
 - https://securityboulevard.com/2023/03/how-to-secure-a-vm-in-a-cloud-computing-environment/
 - https://datasciencedojo.com/blog/hyper-v-backup-for-vmware-administrators/
 - https://hostingjournalist.com/expert-blog-5-nas-backup-strategies-pros-and-cons-explained/
+- https://thinkmobiles.com/posts/2669/
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
