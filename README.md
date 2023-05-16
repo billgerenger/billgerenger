@@ -19,6 +19,7 @@ My latest blog posts:
 - https://datasciencedojo.com/blog/hyper-v-backup-for-vmware-administrators/
 - https://hostingjournalist.com/expert-blog-5-nas-backup-strategies-pros-and-cons-explained/
 - https://thinkmobiles.com/posts/2669/
+- https://techthelead.com/a-guide-to-boost-your-virtual-machine-gaming-performance/?ref=hackernoon.com
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
