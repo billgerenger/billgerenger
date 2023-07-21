@@ -22,6 +22,7 @@ My latest blog posts:
 - https://techthelead.com/a-guide-to-boost-your-virtual-machine-gaming-performance/?ref=hackernoon.com
 - https://dataconomy.com/2023/04/25/msp-cybersecurity-what-you-should-know/
 - https://cybersecuritynews.com/how-to-select-the-right-microsoft-365-backup-solution/
+- https://itchronicles.com/security/virtualized-security-best-practices-protecting-your-data-and-applications/
 
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
