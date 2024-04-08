@@ -24,7 +24,7 @@ My latest blog posts:
 - https://cybersecuritynews.com/how-to-select-the-right-microsoft-365-backup-solution/
 - https://itchronicles.com/security/virtualized-security-best-practices-protecting-your-data-and-applications/
 - https://www.thomasnet.com/insights/ecommerce-cybersecurity/
-
+- https://www.freecodecamp.org/news/how-to-back-up-and-restore-sql-azure-database/
 <!--
 **billgerenger/billgerenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
